@@ -1,0 +1,9 @@
+# Tokenomics Ideas - Initial Notes
+
+- Total Supply: 100,000,000 tokens
+- Distribution Plan:
+  - Team: 15%
+  - Marketing: 10%
+  - Ecosystem Fund: 30%
+  - Public Sale: 45%
+- Utility: Governance voting, fee discounts
